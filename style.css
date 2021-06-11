@@ -111,18 +111,18 @@ body {
 }
 
 .images-parallax__clouds {
-    background: url("../img/clouds.jpg") top / cover no-repeat;
+    background: url("../clouds.jpg") top / cover no-repeat;
     top: 0;
 }
 
 .images-parallax__mountains {
-    background: url("../img/mountains.png") top / cover no-repeat;
+    background: url("../mountains.png") top / cover no-repeat;
     top: 20%;
     z-index: 2;
 }
 
 .images-parallax__human {
-    background: url("../img/human.png") top / cover no-repeat;
+    background: url("../human.png") top / cover no-repeat;
     top: 50%;
     z-index: 3;
 }
